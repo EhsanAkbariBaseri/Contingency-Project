@@ -194,5 +194,6 @@ int main() {
     China china;
     Russia russia;
     America america;
+    Isreal isreal;
 
 }
